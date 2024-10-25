@@ -28,5 +28,5 @@ Z-Testing is a simple script to help you find vulnerabilities on your website.
 Contributions are welcome! Please feel free to submit a pull request. 
 
 ## License 
-This project is licensed under the  License.
+This project is licensed under the  Boost Software License 1.0.
 ```
